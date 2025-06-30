@@ -7,14 +7,14 @@ Hello, my name is Ivan Moura. I'm 36 years old and from Belo Horizonte, MG. I'm 
 <!-- Social badges section -->
 
 <p align="left">
-  <a href="https://github.com/IvanLCaladoMoura?tab=repositories" target="_blank">
+  <a href="https://github.com/IvanLCaladoMoura?tab=repositories">
     <img 
       src="https://img.shields.io/badge/Repositories-black?style=for-the-badge" 
       alt="Repositórios" 
       title="Meus Repositórios"
     />
   </a>
-  <a href="https://www.linkedin.com/in/ivan-calado-moura-0285699b/" target="_blank">
+  <a href="https://www.linkedin.com/in/ivan-calado-moura-0285699b/">
     <img 
       src="https://img.shields.io/badge/LinkedIn-4682B4?style=for-the-badge&logo=linkedin&logoColor=white" 
       alt="LinkedIn" 
@@ -69,15 +69,3 @@ Hello, my name is Ivan Moura. I'm 36 years old and from Belo Horizonte, MG. I'm 
    style="padding-right: 10px;"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
-
-<br/>
-<br/>
-
-### Minhas Estatisticas do GitHub
-<p> 
-<img h
-eight="180em" 
-src="https://github-readme-stats.vercel.app/api?username=IvanLCaladoMoura&show_icons=true&theme=dark&locale=pt-br"/> 
-<img 
-height="180em" 
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanLCaladoMoura&theme=dark&layout=compact&langs_count=5&custom_title=Tecnologias"/> </p>
