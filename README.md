@@ -6,19 +6,23 @@ Hello, my name is Ivan Moura. I'm 36 years old and from Belo Horizonte, MG. I'm 
 
 <!-- Social badges section -->
 
-<p align="left"> 
-
-<a href="https://github.com/IvanLCaladoMoura?tab=repositories"> <img 
-alt="repositories" 
-title="Meus Repositórios" 
-src="https://img.shields.io/badge/Repositories-black?style=for-the-badge"/> 
-</a> 
-<a href="https://www.linkedin.com/in/ivan-calado-moura-0285699b/" target="_blank"> 
-<img alt="LinkedIn" 
-title="Meu LinkedIn" 
-src="https://img.shields.io/badge/LinkedIn-4682B4?style=for-the-badge&logo=linkedin&logoColor=white"/> 
-</a> 
+<p align="left">
+  <a href="https://github.com/IvanLCaladoMoura?tab=repositories" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/Repositories-black?style=for-the-badge" 
+      alt="Repositórios" 
+      title="Meus Repositórios"
+    />
+  </a>
+  <a href="https://www.linkedin.com/in/ivan-calado-moura-0285699b/" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/LinkedIn-4682B4?style=for-the-badge&logo=linkedin&logoColor=white" 
+      alt="LinkedIn" 
+      title="Meu LinkedIn"
+    />
+  </a>
 </p>
+
 
 ---
 ### Linguagens e Tecnologias
