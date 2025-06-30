@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Olá, meu nome é Ivan Moura, tenho 36 anos sou natural de Belo Horizonte – MG. Sou aluno da PUC-RS no curso de Análise e Desenvolvimento de Sistemas e aluno da Rocketseat. Gosto da área de tecnologia, sou apaixonado com a ideia de desenvolvimento de softwares e compartilho meus projetos pessoais neste Github.
+Hello, my name is Ivan Moura. I'm 36 years old and from Belo Horizonte, MG. I'm a student at PUC-RS, studying Systems Analysis and Development, and also a student at Rocketseat. I’m passionate about technology and software development, and I share my personal projects on GitHub..
 
 <!-- Social badges section -->
 
