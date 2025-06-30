@@ -6,22 +6,8 @@ Hello, my name is Ivan Moura. I'm 36 years old and from Belo Horizonte, MG. I'm 
 
 <!-- Social badges section -->
 
-<p align="left">
-  <a href="https://github.com/IvanLCaladoMoura?tab=repositories">
-    <img 
-      src="https://img.shields.io/badge/Repositories-black?style=for-the-badge" 
-      alt="Repositórios" 
-      title="Meus Repositórios"
-    />
-  </a>
-  <a href="https://www.linkedin.com/in/ivan-calado-moura-0285699b/">
-    <img 
-      src="https://img.shields.io/badge/LinkedIn-4682B4?style=for-the-badge&logo=linkedin&logoColor=white" 
-      alt="LinkedIn" 
-      title="Meu LinkedIn"
-    />
-  </a>
-</p>
+[![GitHub Repositórios](https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IvanLCaladoMoura?tab=repositories)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivan-calado-moura-0285699b/)
 
 
 ---
